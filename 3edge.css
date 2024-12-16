@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    padding-bottom: 8px;
+}
+.one{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    padding: 40px 0 25px 0;
+    color: darkblue;
+}
+.two{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    color: orange;
+}
+.one1 {
+ 
+    width: 30%;
+    background-color: beige;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px gray;
+    margin: 0 20px 0 20px;
+    padding-top: 50px;
+}
+.one1 p{
+    /* width: 300px; */
+    padding-top: 20px;
+}
+.one1 h2{
+    color: orange;
+    
+}
+.one1 img{
+  
+     
+}
+.head2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.head3{
+    display: flex;
+    /* padding-left: 300px; */
+    padding-top: 50px;
+    justify-content: center;
+    align-items: center; 
+}
+.hulk{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 12px 0;
+    color: orange;
+}
+.hulk1{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    color: gray;
+}
+.ironman{
+    display: flex;  
+}
+.iron{
+    width: 30%;
+    background-color: beige;
+    padding: 30px;
+    text-align: center;
+    /* border-radius: 20px; */
+    box-shadow: 4px 4px 4px 4px gray;
+    margin: 0 20px 0 20px;
+    padding-top: 50px;
+}
+.iron h2{
+    color: orange;
+    padding: 0 30px;
+    padding-top: 20px;
+}
+.iron h3{
+    color: gray;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+button{
+    border-radius: 20px;
+    padding: 5px 20px 5px 30px;
+    background-color: blue;
+    color: white;
+    border: blue;
+}
+.iron p{
+    padding-top: 20px;
+}
+span{
+    border: solid orange;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 10px;
+}
